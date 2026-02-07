@@ -61,9 +61,132 @@ Any prohibited activity constitutes a violation of the proprietary license and m
 
 ---
 
-## Intellectual Property & Ownership
-Owner: Luana Damato  
-Year: 2025  
+## Compliance Requirements
+All individuals accessing this repository are required to comply fully with the proprietary license governing the QNT‑89A7F3C2 asset.  
+Compliance includes adherence to all restrictions, limitations, confidentiality obligations, and usage boundaries defined in this documentation.  
+Users must acknowledge the proprietary nature of the asset and refrain from any activity that may compromise its confidentiality, integrity, or intellectual property protections.
+
+To remain in compliance, users are required to:
+
+- Respect all terms of the proprietary license and this documentation.  
+- Refrain from attempting to access, analyze, reverse‑engineer, or derive any technical, architectural, or algorithmic information.  
+- Avoid any form of reproduction, distribution, modification, or integration of the asset or its documentation.  
+- Cease immediately any activity that may constitute unauthorized use or potential infringement.  
+- Ensure that no part of the asset or its documentation is shared, transmitted, or disclosed to third parties.  
+- Comply with all applicable intellectual property laws, cybersecurity regulations, and confidentiality standards.  
+- Cooperate with any formal request from the owner regarding verification, investigation, or enforcement of compliance.
+
+Failure to meet these requirements constitutes a violation of the proprietary license and may result in enforcement actions.
+
+---
+
+## Enforcement
+The owner reserves the full right to enforce all terms, restrictions, and limitations described in this documentation and in the proprietary license governing the QNT‑89A7F3C2 asset.  
+Any unauthorized use, reproduction, modification, distribution, analysis, or attempt to access the confidential design or technical components of the asset may result in immediate legal action.  
+Enforcement measures may include, without limitation, formal notices, takedown requests, civil litigation, claims for damages, and the pursuit of criminal liability where applicable.  
+The owner may also request the removal, suspension, or disabling of any system, platform, service, or digital environment found to be using the asset without authorization.  
+By accessing this repository, all parties acknowledge that violations will be actively monitored and prosecuted to the fullest extent permitted by law.
+
+---
+
+## Audit Rights
+The owner retains the right to conduct audits, investigations, or verification procedures to ensure compliance with the proprietary license and the terms outlined in this documentation.  
+Such audits may include the examination of systems, platforms, services, or digital environments suspected of unauthorized use of the QNT‑89A7F3C2 asset.  
+Users must cooperate fully with any audit request and provide all necessary information, documentation, or access required to verify compliance.  
+Failure to cooperate with an audit, or any attempt to obstruct, delay, or interfere with the verification process, constitutes a violation of the proprietary license and may result in immediate enforcement actions.  
+The owner may initiate audits at any time, without prior notice, when unauthorized activity is suspected.
+
+---
+
+# Technical Documentation
+
+## Functional Overview
+QNT‑89A7F3C2 is a proprietary cryptographic construct designed to operate as a controlled‑access algorithmic asset.  
+Its internal logic, structure, and implementation details are not disclosed.  
+The asset functions through a combination of deterministic and non‑deterministic cryptographic processes, enabling controlled generation, validation, or transformation of data within predefined operational boundaries.
+
+The cryptographic behavior of the asset is governed by a proprietary rule‑set that defines:
+- the conditions under which the asset may be invoked  
+- the permissible input and output structures  
+- the internal constraints applied to each operation  
+- the annual maximum usage limit associated with the asset’s supply chain  
+
+The asset is not intended for public execution or integration.  
+Its functional characteristics are documented exclusively for ownership verification, licensing, and regulatory compliance.
+
+---
+
+## Cryptographic Principles
+The QNT‑89A7F3C2 asset is based on proprietary cryptographic principles that ensure controlled, verifiable, and tamper‑resistant behavior.  
+While the specific algorithms and implementation details remain confidential, the asset adheres to the following conceptual properties:
+
+- Deterministic Core Logic  
+- Entropy‑Based Components  
+- Integrity Enforcement  
+- Usage Constraint Enforcement  
+
+These principles are disclosed solely for documentation and verification purposes.
+
+---
+
+## Blockchain Verification Model
+The proprietary asset is associated with an immutable blockchain registration that serves as proof of authorship, ownership, and temporal precedence.  
+The blockchain entry does not expose the internal logic of the asset; instead, it provides:
+
+- a verifiable timestamp  
+- a unique contract address  
+- a permanent public record of ownership  
+- a cryptographic anchor linking the asset to its legal documentation  
+
+This model ensures that the asset’s existence and ownership can be independently verified without revealing its internal implementation.
+
+---
+
+## Operational Abstraction
+The operational behavior of QNT‑89A7F3C2 is intentionally abstracted.  
+The asset is not distributed, executed, or made available in any form that would allow technical inspection or reverse engineering.  
+All functional descriptions provided in this documentation are conceptual and do not disclose the underlying source code, algorithms, or implementation details.
+
+---
+
+## Technical Confidentiality
+All technical aspects of the QNT‑89A7F3C2 asset, including its internal logic, algorithmic structure, operational mechanisms, and implementation details, are strictly confidential.  
+No technical specifications, source code, cryptographic methods, or functional components are disclosed, distributed, or made available through this repository.  
+Any attempt to obtain, infer, reconstruct, or analyze the technical composition of the asset is expressly prohibited.
+
+---
+
+## Confidential Architecture
+The architectural design of the QNT‑89A7F3C2 asset is entirely confidential and is not disclosed in this repository.  
+No information regarding the internal components, structural layers, operational pathways, or architectural logic of the asset is made available for review or analysis.  
+Any attempt to infer, replicate, or analyze the architectural framework of the asset is strictly prohibited.
+
+---
+
+## Protected Design Principles
+The design of the QNT‑89A7F3C2 asset is governed by protected principles intended to preserve its confidentiality, integrity, and proprietary nature.  
+These include:
+
+- Confidential Structural Logic  
+- Integrity Preservation  
+- Controlled Operational Behavior  
+- Non‑Disclosure of Technical Components  
+- Protection Against Reverse Engineering  
+
+These principles ensure that the asset remains secure, proprietary, and legally protected.
+
+---
+
+## Design Confidentiality Statement
+The design, structure, and internal composition of the QNT‑89A7F3C2 asset are strictly confidential and are not disclosed in any form within this repository.  
+No architectural, algorithmic, or implementation‑level information is made available for inspection or analysis.  
+All rights related to the confidential design of the asset are exclusively reserved by the owner.
+
+---
+
+# Intellectual Property & Ownership
+Owner: **Luana Damato**  
+Year: **2025**  
 All rights reserved.
 
 Unauthorized use, reproduction, modification, or distribution is strictly prohibited.
@@ -86,7 +209,7 @@ This registration serves as immutable proof of authorship and ownership.
 
 ## Annual Usage Limit
 Maximum annual supply chain:  
-10,000,000 units per calendar year.
+**10,000,000 units per calendar year.**
 
 Any usage beyond this limit is unauthorized.
 
@@ -105,8 +228,8 @@ Any prior or subsequent use of QNT‑89A7F3C2 is subject to the same restriction
 ---
 
 ## Jurisdiction
-Applicable law: Italian Law and EU Regulations  
-Competent Court: Court of Naples (Foro di Napoli)
+Applicable law: **Italian Law and EU Regulations**  
+Competent Court: **Court of Naples (Foro di Napoli)**
 
 ---
 
