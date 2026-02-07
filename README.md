@@ -1,123 +1,84 @@
----
-
-README – QNT‑89A7F3C2
-
+# QNT‑89A7F3C2  
 Proprietary Cryptographic Code – Official Documentation
 
----
-
-Overview
-QNT‑89A7F3C2 is a proprietary cryptographic codebase developed and owned by Luana Damato.  
-The code is made publicly visible exclusively for transparency, verification, and documentation purposes.
-
-Visibility of the code does not grant any usage rights.
-
-All rights are strictly reserved.
+[ PROPRIETARY LICENSE ]  
+[ BLOCKCHAIN VERIFIED ]
 
 ---
 
-Purpose of This Repository
-This repository serves as the official public reference for:
-
-- the proprietary license (Italian and English versions)  
-- the blockchain registration details  
-- the timestamp of the license deployment  
-- documentation related to the intellectual property protection  
-- legal notices and usage restrictions  
-
-No source code is included or distributed in this repository.
+## Overview
+QNT‑89A7F3C2 is a proprietary cryptographic asset developed and owned by Luana Damato.  
+Public visibility of this repository does not grant any usage rights.
 
 ---
 
-Intellectual Property & Ownership
+## Purpose
+This repository provides official documentation regarding:
+
+- proprietary licensing  
+- blockchain registration  
+- timestamp of deployment  
+- intellectual property protection  
+
+No source code is distributed.
+
+---
+
+## Ownership
 Owner: Luana Damato  
 Year: 2025  
 All rights reserved.
 
-Any use, reproduction, modification, distribution, or integration of the QNT‑89A7F3C2 code is strictly prohibited without explicit written authorization from the owner.
+Unauthorized use, reproduction, modification, or distribution is strictly prohibited.
 
 ---
 
-Blockchain Registration
-The proprietary license is permanently and immutably registered on the Ethereum blockchain.
-
+## Blockchain Registration
 Smart Contract Address (Version 1):  
 0x5f7d3b539d96a27351b316856651c22394ee2d4b
 
 Deployment Transaction Hash:  
 0xb87678cc12df105a128cd5ae0cc33f1b67e43e2f47ea636574b34432b9abeeb1
 
-Timestamp (Date & Time of Registration):  
+Timestamp:  
 06-02-2026 15:32:47 UTC
 
-This on‑chain registration serves as public proof of authorship, ownership, and date of creation.
+This registration serves as immutable proof of authorship and ownership.
 
 ---
 
-Annual Maximum Usage Limit (Supply Chain)
-The QNT‑89A7F3C2 code is subject to a strict annual usage limit.
-
+## Annual Usage Limit
 Maximum annual supply chain:  
-10,000,000 units per calendar year
+10,000,000 units per calendar year.
 
-Any usage exceeding this limit is considered unauthorized and constitutes a violation of the proprietary license.
-
----
-
-Retroactive Protection
-The license applies retroactively.
-
-Any use, access, reproduction, integration, or manipulation of the QNT‑89A7F3C2 code before or after the blockchain registration date is subject to the same restrictions.
-
-Unauthorized prior use is considered unlawful.
+Any usage beyond this limit is unauthorized.
 
 ---
 
-License Documents
-This repository includes the official license documents:
-
-- Italian Version – Proprietary License (PDF)  
-- English Version – Proprietary License (PDF)  
-
-Both documents define the legal framework governing the use of QNT‑89A7F3C2.
+## Retroactive Validity
+The license applies retroactively.  
+Any prior or subsequent use of QNT‑89A7F3C2 is subject to the same restrictions.
 
 ---
 
-Jurisdiction
-This project is protected under:
+## License Documents
+- Proprietary License – Italian Version (PDF)  
+- Proprietary License – English Version (PDF)
 
-- Italian Law  
-- European Union Regulations
+---
 
+## Jurisdiction
+Applicable law: Italian Law and EU Regulations  
 Competent Court: Court of Naples (Foro di Napoli)
 
 ---
 
-Prohibited Uses
-Without written authorization, it is forbidden to:
-
-- copy or reproduce the code  
-- modify or create derivative works  
-- integrate the code into software, platforms, or services  
-- use the code for commercial purposes  
-- use the code in AI systems, datasets, training models, or ML pipelines  
-- use the code to generate tokens, smart contracts, or digital assets  
-- distribute or publish the code in any form  
-
-Any violation will result in civil and criminal liability.
+## Contact
+luanadamato@startmail.com  
+luanadamatolda@gmail.com  
+luanadamato@legalmail.it
 
 ---
 
-Official Contact
-For inquiries, authorization requests, or legal matters:
-
-- luanadamato@startmail.com  
-- luanadamatolda@gmail.com  
-- luanadamato@legalmail.it
-
----
-
-Proprietary License – All Rights Reserved
+Proprietary License – All Rights Reserved  
 © 2025 – Luana Damato
-
----
