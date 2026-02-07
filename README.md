@@ -42,13 +42,13 @@ Blockchain Registration
 The proprietary license is permanently and immutably registered on the Ethereum blockchain.
 
 Smart Contract Address (Version 1):  
-[INSERT CONTRACT ADDRESS HERE]
+0x5f7d3b539d96a27351b316856651c22394ee2d4b
 
 Deployment Transaction Hash:  
-[INSERT TX HASH HERE]
+0xb87678cc12df105a128cd5ae0cc33f1b67e43e2f47ea636574b34432b9abeeb1
 
 Timestamp (Date & Time of Registration):  
-[INSERT TIMESTAMP HERE]
+06-02-2026 15:32:47 UTC
 
 This on‑chain registration serves as public proof of authorship, ownership, and date of creation.
 
