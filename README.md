@@ -20,6 +20,24 @@ All interactions are subject to continuous protection measures, including but no
 For full legal, security, and operational terms, refer to the **Extended Documentation** contained in the secondary README, which forms an integral and binding part of this repository.  
 By proceeding beyond this point, the Party confirms full understanding and acceptance of the System’s proprietary status and the enforceable conditions governing its access and use.
 
+
+## System Classification Level
+
+The System QNT‑89A7F3C2 is designated under the classification level:
+
+### **Proprietary – High Security Classification Level**
+
+This classification indicates that:
+
+- The System is not public, open‑source, or freely accessible.  
+- All components, logic, structures, and operational mechanisms are protected assets.  
+- Access is restricted exclusively to authorized Parties under strict compliance conditions.  
+- Any unauthorized interaction, analysis, replication, or interference is prohibited and subject to enforcement.  
+- The System requires elevated security measures, including network protection, identity verification, and controlled access pathways.  
+- All interactions are governed by the legal, technical, and operational restrictions defined in the Extended Documentation.
+
+This classification level reflects the sensitive, proprietary, and security‑critical nature of the System and mandates full adherence to all applicable restrictions and obligations.
+
 ---
 
 ## Overview
