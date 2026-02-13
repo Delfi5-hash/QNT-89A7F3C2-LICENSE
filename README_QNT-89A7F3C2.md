@@ -126,3 +126,264 @@ Full responsibility lies exclusively with the offending Party.
    - The Owner is entitled to pursue all available legal remedies
      
 ---
+
+## Article 11 — Security Policy for QNT‑89A7F3C2
+
+This Security Policy (“Policy”) defines the mandatory security requirements, behavioral expectations, and access restrictions applicable to any individual or entity (“the Party”) interacting with the proprietary software system QNT‑89A7F3C2 (“the System”) or with any digital, physical, or wireless infrastructure owned or operated by the Owner.
+
+Compliance with this Policy is a binding condition for any form of access or attempted access.
+
+---
+
+## 1. Purpose of the Policy
+1.1. The purpose of this Policy is to ensure the confidentiality, integrity, and availability of the System and all related Network Resources.  
+1.2. This Policy establishes mandatory rules to prevent unauthorized access, misuse, exploitation, or interference.
+
+---
+
+## 2. Scope
+2.1. This Policy applies to:
+- The System (QNT‑89A7F3C2)  
+- All associated documentation  
+- All wireless networks, devices, and communication channels owned by the Owner  
+- Any Party attempting to access or interact with the System  
+
+2.2. This Policy is enforceable regardless of geographic location, device type, or method of access.
+
+---
+
+## 3. Access Control Requirements
+3.1. Access to the System is restricted to authorized adult users (18+).  
+3.2. Written authorization from the Owner is required prior to any interaction.  
+3.3. Unauthorized access attempts are strictly prohibited and constitute a violation of this Policy.
+
+---
+
+## 4. Authentication and Identity Verification
+4.1. Only verified and explicitly authorized identities may access the System.  
+4.2. Use of false identities, anonymization tools, or identity obfuscation mechanisms is prohibited.  
+4.3. The Owner reserves the right to require additional identity verification at any time.
+
+---
+
+## 5. Prohibition of Automated and AI‑Driven Access
+5.1. Automated Agents (AI systems, bots, crawlers, scripts, autonomous processes) are prohibited from accessing or interacting with the System unless explicitly authorized in writing.  
+5.2. Any automated interaction without authorization constitutes a security breach.
+
+---
+
+## 6. Acceptable Use Requirements
+6.1. The System may only be used for authorized and lawful purposes.  
+6.2. The following actions are strictly prohibited:
+- Reverse engineering  
+- Data extraction  
+- Replication or redistribution  
+- Interference with system architecture  
+- Use of the System to harm, surveil, or target the Owner  
+
+6.3. Any misuse constitutes a violation of this Policy.
+
+---
+
+## 7. Network Security Requirements
+7.1. All wireless networks, routers, hotspots, and communication channels owned by the Owner (“Network Resources”) are protected assets.  
+7.2. Unauthorized connection, probing, scanning, or interception of Network Resources is strictly prohibited.  
+7.3. The following actions constitute violations:
+- Wi‑Fi intrusion attempts  
+- Packet sniffing or traffic interception  
+- Credential manipulation or brute force attacks  
+- Device pairing attempts (Bluetooth, NFC, hotspot)  
+- Deployment of automated scanning tools  
+
+---
+
+## 8. Incident Reporting and Response
+8.1. Any detected or suspected unauthorized access attempt may be logged, investigated, and escalated.  
+8.2. The Owner reserves the right to:
+- Block access  
+- Collect technical evidence  
+- Initiate legal proceedings  
+- Seek compensation for damages  
+
+8.3. The Party is fully responsible for any incident resulting from their actions.
+
+---
+
+## 9. Penalties and Legal Consequences
+9.1. Violations of this Policy may result in:
+- Financial penalties  
+- Civil liability  
+- Compensation for damages  
+- Reimbursement of legal and investigative costs  
+- Criminal reporting where applicable  
+
+9.2. The Owner reserves the right to pursue all available legal remedies.
+
+---
+
+## 10. Limitation of Liability
+10.1. The Owner is not liable for:
+- Unauthorized access attempts by third parties  
+- Damages caused by malicious actors  
+- Misuse of the System by unauthorized Parties  
+
+10.2. Full responsibility lies solely with the offending Party.
+
+---
+
+## 11. Acceptance of the Policy
+11.1. Any form of access or attempted access to the System constitutes full acceptance of this Policy.  
+11.2. Parties who do not accept these terms must refrain from any interaction with the System.
+
+---
+
+## 11. Security Policy
+
+The following Security Policy (“Policy”) defines the mandatory security requirements, behavioral expectations, and access restrictions applicable to any individual or entity (“the Party”) interacting with the proprietary software system QNT‑89A7F3C2 (“the System”) or with any digital, physical, or wireless infrastructure owned or operated by the Owner.
+
+Compliance with this Policy is a binding condition for any form of access or attempted access.
+
+### 11.1 Purpose of the Policy
+11.1.1. The purpose of this Policy is to ensure the confidentiality, integrity, and availability of the System and all related Network Resources.  
+11.1.2. This Policy establishes mandatory rules to prevent unauthorized access, misuse, exploitation, or interference.
+
+### 11.2 Scope
+11.2.1. This Policy applies to:
+- The System (QNT‑89A7F3C2)  
+- All associated documentation  
+- All wireless networks, devices, and communication channels owned by the Owner  
+- Any Party attempting to access or interact with the System  
+
+11.2.2. This Policy is enforceable regardless of geographic location, device type, or method of access.
+
+### 11.3 Access Control Requirements
+11.3.1. Access to the System is restricted to authorized adult users (18+).  
+11.3.2. Written authorization from the Owner is required prior to any interaction.  
+11.3.3. Unauthorized access attempts are strictly prohibited and constitute a violation of this Policy.
+
+### 11.4 Authentication and Identity Verification
+11.4.1. Only verified and explicitly authorized identities may access the System.  
+11.4.2. Use of false identities, anonymization tools, or identity‑obfuscation mechanisms is prohibited.  
+11.4.3. The Owner reserves the right to require additional identity verification at any time.
+
+### 11.5 Prohibition of Automated and AI‑Driven Access
+11.5.1. Automated Agents (AI systems, bots, crawlers, scripts, autonomous processes) are prohibited from accessing or interacting with the System unless explicitly authorized in writing.  
+11.5.2. Any automated interaction without authorization constitutes a security breach.
+
+### 11.6 Acceptable Use Requirements
+11.6.1. The System may only be used for authorized and lawful purposes.  
+11.6.2. The following actions are strictly prohibited:
+- Reverse engineering  
+- Data extraction  
+- Replication or redistribution  
+- Interference with system architecture  
+- Use of the System to harm, surveil, or target the Owner  
+
+11.6.3. Any misuse constitutes a violation of this Policy.
+
+### 11.7 Network Security Requirements
+11.7.1. All wireless networks, routers, hotspots, and communication channels owned by the Owner (“Network Resources”) are protected assets.  
+11.7.2. Unauthorized connection, probing, scanning, or interception of Network Resources is strictly prohibited.  
+11.7.3. The following actions constitute violations:
+- Wi‑Fi intrusion attempts  
+- Packet sniffing or traffic interception  
+- Credential manipulation or brute‑force attacks  
+- Device pairing attempts (Bluetooth, NFC, hotspot)  
+- Deployment of automated scanning tools  
+
+### 11.8 Incident Reporting and Response
+11.8.1. Any detected or suspected unauthorized access attempt may be logged, investigated, and escalated.  
+11.8.2. The Owner reserves the right to:
+- Block access  
+- Collect technical evidence  
+- Initiate legal proceedings  
+- Seek compensation for damages  
+
+11.8.3. The Party is fully responsible for any incident resulting from their actions.
+
+### 11.9 Penalties and Legal Consequences
+11.9.1. Violations of this Policy may result in:
+- Financial penalties  
+- Civil liability  
+- Compensation for damages  
+- Reimbursement of legal and investigative costs  
+- Criminal reporting where applicable  
+
+11.9.2. The Owner reserves the right to pursue all available legal remedies.
+
+### 11.10 Limitation of Liability
+11.10.1. The Owner is not liable for:
+- Unauthorized access attempts by third parties  
+- Damages caused by malicious actors  
+- Misuse of the System by unauthorized Parties  
+
+11.10.2. Full responsibility lies solely with the offending Party.
+
+### 11.11 Acceptance of the Policy
+11.11.1. Any form of access or attempted access to the System constitutes full acceptance of this Policy.  
+11.11.2. Parties who do not accept these terms must refrain from any interaction with the System.
+
+
+## 12. General Provisions
+
+### 12.1 Severability
+If any clause, section, or provision of this Agreement is found to be invalid, unlawful, or unenforceable under applicable law, such provision shall be considered severed from the Agreement.  
+The remaining provisions shall continue in full force and effect without impairment.
+
+### 12.2 Amendments and Modifications
+The Owner reserves the exclusive right to amend, update, or modify this Agreement, including all referenced articles and policies, at any time and without prior notice.  
+Continued access or attempted access to the System after such modifications constitutes acceptance of the updated terms.
+
+### 12.3 No Waiver
+Failure by the Owner to enforce any provision of this Agreement shall not be interpreted as a waiver of such provision or of the right to enforce it in the future.
+
+### 12.4 Entire Agreement
+This Agreement constitutes the complete and exclusive understanding between the Parties regarding the System and supersedes any prior or contemporaneous agreements, communications, or representations, whether written or oral.
+
+### 12.5 Assignment
+The Party may not assign, transfer, or delegate any rights or obligations arising from this Agreement without explicit written authorization from the Owner.  
+Any unauthorized assignment shall be considered null and void.
+
+### 12.6 Enforcement Rights
+The Owner retains the right to pursue all available legal, administrative, and technical remedies to enforce this Agreement and protect the System, Network Resources, and associated assets.
+
+### 12.7 Survival of Obligations
+All obligations related to confidentiality, unauthorized access, liability, and prohibited actions shall survive the termination of any granted access rights and remain fully enforceable.
+
+### 12.8 Acceptance of Final Provisions
+By accessing or attempting to access the System, the Party acknowledges and accepts all provisions contained in this Article 12 and throughout the Agreement.
+
+## 13. Final Acknowledgment and Enforcement
+
+### 13.1 Binding Nature of the Agreement
+This Agreement, including all articles, clauses, and provisions contained herein, is legally binding upon any Party who accesses or attempts to access the System or any associated Network Resources.  
+No Party may claim ignorance of these terms as a defense against enforcement.
+
+### 13.2 Mandatory Compliance
+Compliance with all provisions of this Agreement is mandatory.  
+Any deviation, violation, or unauthorized action constitutes a breach and may result in immediate enforcement measures, including legal, administrative, and technical actions.
+
+### 13.3 Enforcement Authority
+The Owner retains full and exclusive authority to:
+- Enforce all provisions of this Agreement  
+- Initiate investigations  
+- Implement protective or corrective measures  
+- Pursue legal remedies without limitation  
+
+The Owner may exercise these rights at any time and without prior notice.
+
+### 13.4 Continuing Obligations
+All obligations related to confidentiality, unauthorized access, liability, prohibited actions, and network security remain in effect indefinitely, regardless of whether access rights are terminated or expired.
+
+### 13.5 Acknowledgment of Understanding
+By accessing or attempting to access the System, the Party acknowledges that:
+- They have read and understood the entirety of this Agreement  
+- They accept all terms without exception  
+- They assume full responsibility for compliance  
+- They understand the consequences of any violation  
+
+### 13.6 Final Closure
+This Article 13 concludes the Agreement governing the use, access, and protection of the System and all related assets.  
+No further implied rights, permissions, or interpretations shall be assumed beyond what is explicitly stated herein.
+
+---
