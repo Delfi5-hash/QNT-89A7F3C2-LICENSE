@@ -422,3 +422,45 @@ The Owner reserves the right to pursue all legal, administrative, and technical 
 By accessing or attempting to access the System, the Party acknowledges and accepts all provisions contained in this Article 14.
 
 ---
+
+## 15. Entry Into Force, Supremacy, and Final Certification
+
+### 15.1 Entry Into Force
+This Agreement enters into full legal effect immediately upon publication within the System’s documentation or upon any form of access or attempted access by the Party, whichever occurs first.  
+No additional signature, approval, or acknowledgment is required for its enforceability.
+
+### 15.2 Supremacy of the Agreement
+This Agreement prevails over any prior, concurrent, or subsequent communication, statement, assumption, or interpretation not explicitly included herein.  
+No external document, message, or representation—whether written, verbal, or digital—shall supersede, modify, or diminish the validity of this Agreement unless expressly authorized in writing by the Owner.
+
+### 15.3 Non‑Circumvention
+The Party is strictly prohibited from attempting to circumvent, bypass, weaken, or invalidate any clause, restriction, or protection contained in this Agreement.  
+Any attempt to evade or undermine the Agreement shall be treated as a direct and material violation, subject to immediate enforcement and legal action.
+
+### 15.4 Immutable Nature of Core Provisions
+All provisions related to:
+- Unauthorized access  
+- Network security  
+- Liability  
+- Intellectual property  
+- Enforcement rights  
+- Survival of obligations  
+
+are considered **core and immutable**, and remain permanently enforceable regardless of any future modification, update, or revision of the Agreement.
+
+### 15.5 Interpretation in Favor of the Owner
+In the event of ambiguity, uncertainty, or conflicting interpretations, the Agreement shall be interpreted in the manner most protective of the Owner’s rights, assets, and interests.  
+No interpretation favoring the Party shall be assumed unless explicitly stated.
+
+### 15.6 Certification of Integrity
+The Owner certifies that this Agreement represents the complete and final legal framework governing the System.  
+Any Party accessing or attempting to access the System is deemed to have fully accepted, understood, and agreed to all provisions contained herein.
+
+### 15.7 Final Closure
+This Article 15 constitutes the definitive closure of the Agreement.  
+No additional rights, permissions, or interpretations shall be inferred beyond what is expressly stated.  
+All obligations, restrictions, and protections remain in full force indefinitely.
+
+---
+
+---
