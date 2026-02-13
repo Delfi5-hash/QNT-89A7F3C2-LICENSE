@@ -387,3 +387,38 @@ This Article 13 concludes the Agreement governing the use, access, and protectio
 No further implied rights, permissions, or interpretations shall be assumed beyond what is explicitly stated herein.
 
 ---
+
+## 14. Copyright & Intellectual Property
+
+### 14.1 Ownership of Intellectual Property
+All components of the System QNT‑89A7F3C2, including but not limited to its architecture, logic, structure, documentation, text, concepts, and any derivative materials, are the exclusive intellectual property of the Owner.  
+No rights, licenses, or permissions are granted unless explicitly stated in writing by the Owner.
+
+### 14.2 Restrictions on Use
+The Party is strictly prohibited from:
+- Copying, reproducing, or redistributing any part of the System  
+- Creating derivative works  
+- Using the System or its documentation for commercial, academic, or research purposes without authorization  
+- Claiming ownership, authorship, or contribution to the System  
+
+Any such action constitutes a violation of this Agreement and of applicable intellectual property laws.
+
+### 14.3 Protection of Proprietary Material
+The System and all related materials are protected under applicable copyright, intellectual property, and digital protection laws.  
+Unauthorized use, reproduction, or distribution may result in civil and criminal liability.
+
+### 14.4 No Transfer of Rights
+Nothing in this Agreement shall be interpreted as transferring, assigning, or licensing any intellectual property rights to the Party.  
+All rights remain exclusively with the Owner.
+
+### 14.5 Enforcement of Intellectual Property Rights
+The Owner reserves the right to pursue all legal, administrative, and technical remedies to protect the System and enforce intellectual property rights, including but not limited to:
+- Cease‑and‑desist actions  
+- Claims for damages  
+- Legal proceedings  
+- Digital takedown requests  
+
+### 14.6 Acceptance of Intellectual Property Terms
+By accessing or attempting to access the System, the Party acknowledges and accepts all provisions contained in this Article 14.
+
+---
