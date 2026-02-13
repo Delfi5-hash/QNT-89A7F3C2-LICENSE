@@ -69,3 +69,58 @@ The user accepts full responsibility for any use of the software.
 ## 6. Contact
 
 For authorized access or service requests, please contact the owner through the official email or approved communication channels.
+
+## Article 7 — Limitation of Liability
+
+7.1. The Owner shall not be held liable for:
+   - Misuse of the System  
+   - Unauthorized Access by third parties  
+   - Actions performed by Automated Agents  
+   - Damages arising from violations of this Agreement  
+
+7.2. Full responsibility for unauthorized actions lies solely with the offending Party.
+
+---
+
+## Article 8 — Acceptance of Terms
+
+8.1. Any form of access, attempted access, or interaction with the System constitutes full acceptance of this Agreement.  
+8.2. Parties who do not agree to these terms must refrain from any interaction with the System.  
+8.3. Continued use without acceptance is strictly prohibited and constitutes a breach.
+
+---
+
+## Article 9 — Governing Law
+
+9.1. This Agreement shall be interpreted and enforced in accordance with applicable laws and regulations relevant to proprietary software protection and digital access control.  
+9.2. Jurisdiction for disputes shall be determined by the Owner unless otherwise required by law.
+
+---
+
+## Article 10 — Network Security and Wireless Access Restrictions
+
+10.1. The Owner maintains exclusive control over all wireless networks, communication channels, and digital infrastructures associated with or used in relation to the System (“Network Resources”).  
+Unauthorized access to any such Network Resources is strictly prohibited.
+
+10.2. No Party is permitted to connect to, attempt to connect to, probe, scan, intercept, or otherwise interact with any wireless network, hotspot, router, device, or communication interface owned or operated by the Owner without explicit written authorization.
+
+10.3. The following actions constitute material violations of this Agreement:
+   - Unauthorized connection to the Owner’s Wi‑Fi or wireless networks  
+   - Attempted access through password guessing, brute force, or credential manipulation  
+   - Network scanning, packet sniffing, or traffic interception  
+   - Device pairing attempts (Bluetooth, NFC, hotspot, or similar technologies)  
+   - Deployment of automated agents or scripts to detect or exploit network vulnerabilities  
+
+10.4. Any unauthorized interaction with the Owner’s Network Resources may result in:
+   - Immediate termination of any granted access rights  
+   - Legal action under applicable cybersecurity and privacy laws  
+   - Financial penalties and compensation for damages  
+   - Reimbursement of investigative, legal, and technical mitigation costs  
+
+10.5. The Owner shall not be held liable for any damages, losses, or security breaches caused by third‑party intrusions, unauthorized access attempts, or malicious activities directed at the Network Resources.  
+Full responsibility lies exclusively with the offending Party.
+
+10.6. By accessing or attempting to access the System, the Party acknowledges and agrees that:
+   - All wireless and network infrastructures of the Owner are protected assets  
+   - Unauthorized access constitutes a breach of this Agreement  
+   - The Owner is entitled to pursue all available legal remedies
