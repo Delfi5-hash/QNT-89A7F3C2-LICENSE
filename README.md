@@ -6,6 +6,22 @@ Proprietary Cryptographic Code – Official Documentation
 
 ---
 
+# Preamble
+
+This repository contains the proprietary system QNT‑89A7F3C2, a controlled and authorization‑restricted computational framework designed for secure, regulated, and owner‑supervised digital operations.  
+The System, its logic, its documentation, and all associated materials are the exclusive intellectual property of the Owner and are governed by strict access, usage, and security requirements.
+
+Access to this repository, whether direct or indirect, intentional or accidental, constitutes acknowledgment of the System’s protected nature and acceptance of the governing terms defined by the Owner.  
+No Party is permitted to interact with, analyze, replicate, or utilize the System without explicit written authorization. Any unauthorized attempt to access or interfere with the System, its components, or the Owner’s digital infrastructures is strictly prohibited and may result in legal, administrative, and technical enforcement actions.
+
+The System operates within a closed, non‑public architecture and is not intended for open‑source use, public distribution, or external modification.  
+All interactions are subject to continuous protection measures, including but not limited to intellectual property safeguards, network security restrictions, and mandatory compliance obligations.
+
+For full legal, security, and operational terms, refer to the **Extended Documentation** contained in the secondary README, which forms an integral and binding part of this repository.  
+By proceeding beyond this point, the Party confirms full understanding and acceptance of the System’s proprietary status and the enforceable conditions governing its access and use.
+
+---
+
 ## Overview
 QNT‑89A7F3C2 is a proprietary cryptographic asset developed and owned by Luana Damato.  
 Public visibility of this repository does not grant any usage rights.
