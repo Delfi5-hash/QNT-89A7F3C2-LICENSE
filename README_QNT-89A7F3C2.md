@@ -124,3 +124,5 @@ Full responsibility lies exclusively with the offending Party.
    - All wireless and network infrastructures of the Owner are protected assets  
    - Unauthorized access constitutes a breach of this Agreement  
    - The Owner is entitled to pursue all available legal remedies
+     
+---
