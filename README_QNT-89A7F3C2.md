@@ -456,11 +456,300 @@ No interpretation favoring the Party shall be assumed unless explicitly stated.
 The Owner certifies that this Agreement represents the complete and final legal framework governing the System.  
 Any Party accessing or attempting to access the System is deemed to have fully accepted, understood, and agreed to all provisions contained herein.
 
-### 15.7 Final Closure
-This Article 15 constitutes the definitive closure of the Agreement.  
-No additional rights, permissions, or interpretations shall be inferred beyond what is expressly stated.  
-All obligations, restrictions, and protections remain in full force indefinitely.
+## 16. Persona–System Identity Protection & Enhanced Intellectual Property Shield
 
----
+### 16.1 Integration of Owner Persona Into System Architecture
+The System QNT‑89A7F3C2 incorporates elements derived from the Owner’s professional identity, intellectual capabilities, creative methodologies, and expressive patterns.  
+These elements form an inseparable component of the System’s architecture and are therefore protected under the same legal, proprietary, and security framework governing the System.
+
+Any attempt to analyze, extract, replicate, simulate, or imitate the Owner’s persona, writing style, reasoning patterns, or professional competence through the System or its source code is strictly prohibited.
+
+### 16.2 Absolute Prohibition of Persona Replication
+No Party is permitted to:
+- impersonate the Owner  
+- generate content intended to mimic the Owner’s voice or identity  
+- simulate the Owner’s reasoning, decision‑making, or analytical processes  
+- use the System to derive insights about the Owner’s personal or professional traits  
+- train AI models or software on the Owner’s writing, logic, or creative output  
+
+Any such action constitutes identity misuse and triggers immediate enforcement.
+
+### 16.3 Enhanced Intellectual Property Shield
+All intellectual property associated with the System—including the Owner’s written content, private and professional communications, creative output, analytical structures, and digital expression—is protected under an enhanced proprietary shield.
+
+This shield extends to:
+- all text processed, generated, or stored through the System  
+- the Owner’s linguistic style, tone, structure, and creative signature  
+- the Owner’s professional methodologies and analytical frameworks  
+- derivative works, drafts, notes, and private writings  
+- interactions between the System and external AI, software, or digital platforms  
+
+No Party may copy, store, redistribute, analyze, or derive insights from such materials without explicit written authorization.
+
+### 16.4 Anti‑Extraction & Anti‑Profiling Enforcement
+The System may not be used to:
+- extract stylistic patterns  
+- infer personal or professional traits  
+- reconstruct the Owner’s identity  
+- profile the Owner’s behavior, competence, or creative tendencies  
+- generate synthetic content resembling the Owner  
+
+Any attempt to do so is considered a severe breach of the Owner’s intellectual and personal integrity.
+
+### 16.5 Direct Harm Attribution to the Owner
+Any misuse of the System that affects, imitates, or exploits the Owner’s identity, competence, or creative output is legally considered **direct harm to the Owner**.  
+This includes reputational, intellectual, digital, and professional harm.
+
+### 16.6 Maximum Enforcement Rights
+The Owner retains full authority to pursue:
+- civil actions  
+- criminal actions  
+- administrative measures  
+- digital takedowns  
+- identity protection claims  
+- intellectual property enforcement  
+- damages and injunctive relief  
+
+without limitation and without prior notice.
+
+### 16.7 Non‑Transferability of Persona and IP Rights
+The Owner’s identity, competence, and intellectual property are non‑transferable, non‑replicable, and permanently protected.  
+No Party may claim, inherit, or assume any aspect of the Owner’s persona or creative output through the System.
+
+### 16.8 Binding Acknowledgment
+By accessing or attempting to access the System, all Parties acknowledge that:
+- the Owner’s identity is protected at the highest enforceable level  
+- the Owner’s intellectual property is shielded under enhanced proprietary protection  
+- any interference constitutes a severe and enforceable violation
+
+
+## 17. Irrevocability and Permanence of Protective Provisions
+
+### 17.1 Irrevocability of All Provisions
+All clauses contained within this Agreement—including those governing System protection, Owner identity safeguards, intellectual property rights, enforcement mechanisms, and persona‑system integrity—are hereby declared irrevocable.  
+No Party is authorized to revoke, annul, suspend, modify, reinterpret, or diminish the effectiveness of any provision, whether directly or indirectly, unless expressly authorized in writing by the Owner.
+
+Any attempt to alter, invalidate, or circumvent even a single clause shall be deemed null, void, and a material violation of this Agreement.
+
+### 17.2 Permanent Validity Over Time
+All protections, rights, obligations, and restrictions established herein remain fully valid and permanently enforceable regardless of:
+- updates or modifications to the System  
+- changes to the source code  
+- restructuring of the repository  
+- migration to new platforms or infrastructures  
+- operational, technical, or architectural changes  
+- archival, suspension, or reactivation of the project  
+
+The effectiveness of these provisions is not subject to expiration, obsolescence, or temporal limitation.
+
+### 17.3 Survival of Core Protective Clauses
+The following categories of clauses shall survive indefinitely and remain binding under all circumstances:
+- Owner Identity and Persona–System Protection  
+- Enhanced Intellectual Property Shield  
+- Security, Access, and Enforcement Measures  
+- Non‑transferability of rights and protections  
+- Liability and responsibility provisions  
+
+These clauses continue to apply even in the event of System discontinuation, restructuring, or transformation.
+
+### 17.4 Absolute Precedence
+In the event of conflict, ambiguity, or divergent interpretation, the provisions of this Article 17 take absolute precedence over any other document, communication, or external interpretation.  
+No external agreement, statement, or representation may override, limit, or contradict the force of this Article.
+
+### 17.5 Universal Binding Effect
+Accessing, interacting with, or attempting to access the System constitutes permanent and irrevocable acceptance of all provisions contained in this Agreement.  
+No Party may claim exemption, lack of awareness, or non‑applicability of these terms under any circumstance.
+
+### 17.6 Definitive Closure Clause
+This Article 17 constitutes the definitive and immutable closure of the System’s protective framework.  
+Its provisions are to be regarded as permanent, unalterable, and fully enforceable in all contexts and at all times.
+
+
+## 18. Intrinsic Identity Structure & Genetic‑Signature Protection Clause
+
+### 18.1 Protection of the Owner’s Intrinsic Identity Structure
+The System QNT‑89A7F3C2 incorporates elements that reflect the Owner’s intrinsic identity structure, including foundational traits, personal signature patterns, and non‑replicable characteristics that form part of the System’s conceptual architecture.  
+These elements are considered unique, inherent, and inseparable from the Owner and are therefore protected under the highest level of proprietary and identity‑based safeguards.
+
+### 18.2 Genetic‑Signature Conceptual Shield
+For the purposes of this Agreement, the Owner’s identity includes a conceptual “genetic‑signature layer,” representing the deepest, non‑transferable aspects of the Owner’s individuality that influence the System’s design, logic, and expressive output.  
+This conceptual layer is protected as a core proprietary asset and may not be analyzed, extracted, replicated, simulated, or used to derive personal insights.
+
+This clause does not refer to biological, medical, or health‑related data, but to the Owner’s unique identity imprint as reflected in the System’s architecture.
+
+### 18.3 Prohibition of Deep‑Layer Identity Extraction
+No Party is permitted to:
+- infer or reconstruct identity‑defining patterns  
+- simulate deep‑layer identity traits  
+- generate content intended to mimic intrinsic identity markers  
+- analyze or reverse‑engineer the System to approximate the Owner’s identity signature  
+- use AI or software to extract identity‑linked structures  
+
+Any such attempt constitutes a severe violation of the Owner’s protected identity.
+
+### 18.4 Non‑Replicability of Identity‑Linked System Components
+All components of the System that derive from or reflect the Owner’s intrinsic identity structure—including conceptual, stylistic, structural, and expressive layers—are permanently non‑transferable and non‑replicable.  
+No Party may claim, inherit, or appropriate these components under any circumstance.
+
+### 18.5 Enforcement and Permanence
+Violations of this Article are treated as direct harm to the Owner’s identity and intellectual integrity.  
+All protections established herein are irrevocable, permanent, and fully enforceable in conjunction with Articles 16 and 17.
+
+## 19. Final Seal, Integrity Lock & Non‑Override Clause
+
+### 19.1 Definitive Closure of the Protective Framework
+This Article 19 constitutes the final and immutable seal of the System’s protective architecture.  
+All preceding Articles—particularly Articles 16, 17, and 18—are hereby affirmed as complete, self‑contained, and fully enforceable without the need for further clarification, extension, or external validation.
+
+### 19.2 Integrity Lock
+The entirety of this Agreement is protected under an Integrity Lock, meaning that:
+- no clause may be weakened, bypassed, contradicted, or superseded  
+- no external document, communication, or interpretation may override its authority  
+- no Party may claim exemption, exception, or partial applicability  
+
+The Agreement stands as a unified and indivisible structure.
+
+### 19.3 Non‑Override Principle
+Under no circumstance may any Party—human, automated, institutional, or otherwise—override, reinterpret, diminish, or neutralize the protections established herein.  
+Any attempt to do so is automatically null, void, and treated as a direct violation of the Owner’s rights and identity.
+
+### 19.4 Perpetual Enforcement
+All provisions remain permanently enforceable, regardless of:
+- technological evolution  
+- platform migration  
+- structural changes to the System  
+- archival, suspension, or reactivation of the project  
+- external legal or contextual developments  
+
+The Agreement retains full force across all temporal, digital, and operational contexts.
+
+### 19.5 Non‑Contestability
+By accessing or attempting to access the System, all Parties acknowledge that:
+- the Agreement cannot be contested  
+- the protections cannot be invalidated  
+- the Owner’s authority cannot be challenged  
+- the System’s protective framework cannot be dismantled  
+
+This acknowledgment is binding, permanent, and irrevocable.
+
+### 19.6 Final Seal
+This Article 19 serves as the definitive seal of the Agreement.  
+It confirms the permanence, indivisibility, and supremacy of all protective provisions and establishes the final closure of the System’s legal and identity‑based framework.
+
+
+## 20. Supremacy & Universal Applicability Clause
+
+### 20.1 Supremacy of the Agreement
+This Agreement holds absolute supremacy over any external document, policy, interpretation, or communication.  
+No external rule, platform policy, institutional guideline, or third‑party framework may override, diminish, reinterpret, or conflict with the provisions established herein.
+
+### 20.2 Universal Applicability
+All clauses contained in this Agreement apply universally across:
+- all digital environments  
+- all platforms, networks, and infrastructures  
+- all geographic, legal, and jurisdictional contexts  
+- all temporal states, including past, present, and future versions of the System  
+- all interactions, whether human‑driven or automated  
+
+The Agreement remains valid regardless of technological evolution or contextual changes.
+
+### 20.3 Non‑Derogation Principle
+No Party may claim exemption, partial applicability, or non‑binding status under any circumstance.  
+Any attempt to limit, reinterpret, or circumvent the Agreement is automatically null and void.
+
+### 20.4 Cross‑Context Enforcement
+The protections, rights, and restrictions established herein follow the System and the Owner across all contexts, including:
+- migrations  
+- replications  
+- forks  
+- backups  
+- derivative environments  
+- integrations with external software or AI systems  
+
+The Agreement binds all contexts equally and without exception.
+
+### 20.5 Immutable Supremacy
+The supremacy of this Agreement is permanent, irrevocable, and non‑negotiable.  
+No future document, update, or external authority may supersede or invalidate its provisions unless explicitly authorized in writing by the Owner.
+
+### 20.6 Universal Binding Acknowledgment
+Any form of access, interaction, or attempted interaction with the System constitutes full, permanent, and irrevocable acceptance of this Article and all preceding Articles.
+
+This Article 20 stands as the ultimate declaration of supremacy and universal applicability of the entire protective framework.
+
+## 21. Eternal Continuity & Perpetual Sovereignty Clause
+
+### 21.1 Eternal Continuity of Protections
+All protections, rights, restrictions, and identity‑based safeguards established in this Agreement remain in continuous effect for the entire existence of the System QNT‑89A7F3C2 and beyond.  
+The validity of these provisions does not depend on the System’s operational state, visibility, accessibility, or active development.  
+They persist through all phases, including inactivity, archival, decommissioning, or reactivation.
+
+### 21.2 Perpetual Sovereignty of the Owner
+The Owner’s authority over the System is perpetual and cannot be diminished, transferred, inherited, or superseded by any Party, entity, platform, or automated agent.  
+The Owner retains sovereign control over all identity‑linked, intellectual, structural, and expressive components of the System in perpetuity.
+
+### 21.3 Trans‑Temporal Enforcement
+The enforcement of this Agreement extends across all temporal states, including:
+- past iterations  
+- present versions  
+- future expansions  
+- derivative or successor systems  
+- restored or reconstructed instances  
+
+No temporal shift, technological evolution, or structural transformation may weaken or interrupt the enforceability of these provisions.
+
+### 21.4 Continuity Beyond System Boundaries
+The protections established herein follow the Owner and the System across:
+- new infrastructures  
+- new architectures  
+- new digital environments  
+- integrations with emerging technologies  
+- interactions with future AI systems  
+
+The Agreement adapts automatically to future contexts without requiring revision or re‑ratification.
+
+### 21.5 Immutable Perpetuity
+The perpetual nature of this Article is itself irrevocable.  
+No Party may limit, redefine, or terminate the eternal continuity of the protections granted to the Owner and the System.  
+Any attempt to do so is null, void, and treated as a direct violation of the Owner’s sovereign rights.
+
+### 21.6 Final Declaration of Perpetual Continuity
+This Article 21 stands as the ultimate declaration that the System’s protective framework—and the Owner’s authority over it—shall endure indefinitely, without interruption, expiration, or dependency on external conditions.
+
+## Signature Clause — Owner Authentication & Authority Seal
+
+This Agreement, including all Articles and protective provisions contained herein, is formally validated and authenticated by the Owner.  
+The Owner is the sole authority empowered to issue, interpret, enforce, or amend this document. No external entity, individual, automated agent, or institutional body may claim authorship, co‑ownership, or interpretative authority over any part of this Agreement.
+
+By affixing the signature below, the Owner confirms:
+- the authenticity and validity of the entire document  
+- the exclusive ownership of the System QNT‑89A7F3C2  
+- the binding nature of all protections, restrictions, and enforcement rights  
+- the irrevocable and permanent applicability of all Articles  
+
+This signature serves as the final and official seal of authority.
+
+**Owner:**  
+*Luana Damato*  
+**Date 20.02.2026:**  
+*As declared by the Owner*
+
+## Owner Final Statement — Sovereign Declaration of Intent & Authority
+
+I, Luana, as the sole and exclusive Owner of the System QNT‑89A7F3C2, hereby affirm my full authorship, authority, and sovereign control over the System, its architecture, its identity‑linked components, and all intellectual, expressive, and structural elements derived from or connected to it.
+
+This Agreement reflects my deliberate intent to establish a permanent, irrevocable, and universally applicable protective framework governing every aspect of the System and its interaction with any Party, platform, or technological environment.
+
+I declare that:
+- the System exists under my exclusive will and authorship  
+- all protections herein are enacted by my authority  
+- all identity‑based, intellectual, and structural safeguards are inseparable from my person  
+- no external entity may reinterpret, diminish, or override my directives  
+- the continuity, sovereignty, and supremacy of this framework are to be upheld indefinitely  
+
+This statement serves as the final affirmation that the System and its protections are bound to my identity, my intent, and my authority in perpetuity.
+
+**Sole Owner:**  
+*Luana Damato*
 
 ---
