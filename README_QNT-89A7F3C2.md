@@ -716,24 +716,6 @@ Any attempt to do so is null, void, and treated as a direct violation of the Own
 ### 21.6 Final Declaration of Perpetual Continuity
 This Article 21 stands as the ultimate declaration that the System’s protective framework—and the Owner’s authority over it—shall endure indefinitely, without interruption, expiration, or dependency on external conditions.
 
-## Signature Clause — Owner Authentication & Authority Seal
-
-This Agreement, including all Articles and protective provisions contained herein, is formally validated and authenticated by the Owner.  
-The Owner is the sole authority empowered to issue, interpret, enforce, or amend this document. No external entity, individual, automated agent, or institutional body may claim authorship, co‑ownership, or interpretative authority over any part of this Agreement.
-
-By affixing the signature below, the Owner confirms:
-- the authenticity and validity of the entire document  
-- the exclusive ownership of the System QNT‑89A7F3C2  
-- the binding nature of all protections, restrictions, and enforcement rights  
-- the irrevocable and permanent applicability of all Articles  
-
-This signature serves as the final and official seal of authority.
-
-**Owner:**  
-*Luana Damato*  
-**Date 20.02.2026:**  
-*As declared by the Owner*
-
 ## Owner Final Statement — Sovereign Declaration of Intent & Authority
 
 I, Luana, as the sole and exclusive Owner of the System QNT‑89A7F3C2, hereby affirm my full authorship, authority, and sovereign control over the System, its architecture, its identity‑linked components, and all intellectual, expressive, and structural elements derived from or connected to it.
@@ -751,5 +733,23 @@ This statement serves as the final affirmation that the System and its protectio
 
 **Sole Owner:**  
 *Luana Damato*
+
+## Signature Clause — Owner Authentication & Authority Seal
+
+This Agreement, including all Articles and protective provisions contained herein, is formally validated and authenticated by the Owner.  
+The Owner is the sole authority empowered to issue, interpret, enforce, or amend this document. No external entity, individual, automated agent, or institutional body may claim authorship, co‑ownership, or interpretative authority over any part of this Agreement.
+
+By affixing the signature below, the Owner confirms:
+- the authenticity and validity of the entire document  
+- the exclusive ownership of the System QNT‑89A7F3C2  
+- the binding nature of all protections, restrictions, and enforcement rights  
+- the irrevocable and permanent applicability of all Articles  
+
+This signature serves as the final and official seal of authority.
+
+**Owner:**  
+*Luana Damato*  
+**Date 20.02.2026 ore 09:07:09**  
+*As declared by the Owner*
 
 ---
